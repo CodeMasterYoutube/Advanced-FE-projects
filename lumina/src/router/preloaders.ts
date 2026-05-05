@@ -1,0 +1,6 @@
+export const preloadHome = () => import('../pages/Home')
+export const preloadDashboard = () => import('../pages/Dashboard')
+export const preloadAnalytics = () => import('../pages/Analytics')
+export const preloadReports = () => import('../pages/Reports')
+export const preloadEditor = () => import('../pages/Editor')
+export const preloadSettings = () => import('../pages/Settings')
